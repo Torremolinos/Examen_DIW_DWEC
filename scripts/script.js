@@ -1,6 +1,6 @@
 /**
  * @Author:Adrián Iglesias Riño
- * @Github: https://github.com/
+ * @Github: https://github.com/Torremolinos/Examen_DIW_DWEC
  */
 /*Usamos addEventListener con el DomContentLoaded (para que carge el html y css primero antes que el JS)*/
 document.addEventListener("DOMContentLoaded", () => {
