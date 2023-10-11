@@ -20,6 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
             diagonal.textContent = Math.sqrt((Math.pow(longitud,2) + Math.pow(ancho,2))).toFixed(2);
             diagonal.textContent = `Diagonal del rectángulo: ${diagonal.textContent}`;
         }
+        /*Aqui meti solo 1 respuesta para que solo salga una.*/
         else {
             area.textContent = `Por favor, ingrese valores válidos`;
         }
