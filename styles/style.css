@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+}
+.conteiner{
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+button{
+    color: white;
+    padding: 9px;
+    margin: 9px;
+    background-color: #007BFF;
+    margin-right: 4px;
+}
+label{
+    padding: 4px;
+    margin: 4px;;
+}
+.l2{
+    margin-left:23px;
+}
+input{
+    padding: 4px;
+    margin: 4px;
+}
+.i2{
+    margin-left:22px ;
+}
