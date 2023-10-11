@@ -1,9 +1,11 @@
+/*Esto es para dejar los borde a 0 todo.*/
 *{
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
 
 }
+/*El contenedor*/
 .conteiner{
     font-family: 'Courier New', Courier, monospace;
     display: block;
